@@ -1,0 +1,6 @@
+Dhriyaman||7346||BBa||Physics Hons.||Physics||MIT
+Sritiman||13000118035||Btech||CSE||Computer Science||TMSL
+Manab Adak||1329562829||BSc||Mathematics||Maths Hons.||Jadavpur Univ.
+Priyanka||13000118902||BE||Mechanical||MET||IIT R.
+Rajesh||89||Btech||Electronics||ECE||TMSL
+Ankush ||89||IIT Jam||Electrical||EE||IIT KGP

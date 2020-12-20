@@ -1,0 +1,3 @@
+Jogeshya||954112||Nutrition||Biology||Bio Hons.||Dr. K.R. Ghosh
+Animesh||9431091||Advanced Computer Architecture ||CS||Parallel Processing||Dr. Ramesh Bokotra
+Roy Krishna||98554||Automobiles MFG.||RENAULT||Engine PW. Enhancement||RK. Punshaiti
